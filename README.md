@@ -10,7 +10,7 @@ Spatio-temporal data visualization example codes and tutorials from scratch.
 [![npm](https://img.shields.io/npm/v/glmaps.svg)](https://www.npmjs.com/package/glmaps)
 [![Github All Releases](https://img.shields.io/github/downloads/hijiangtao/glmaps/total.svg)](https://github.com/hijiangtao/glmaps/releases)
 [![npm](https://img.shields.io/npm/dt/glmaps.svg)](https://www.npmjs.com/package/glmaps)
-[![GitHub contributors](https://img.shields.io/github/contributors/hijiangtao/glmaps.svg)]() 
+[![GitHub contributors](https://img.shields.io/github/contributors/hijiangtao/glmaps.svg)](https://github.com/hijiangtao/glmaps/graphs/contributors) 
 [![GitHub issues](https://img.shields.io/github/issues/hijiangtao/glmaps.svg)](https://github.com/hijiangtao/glmaps/issues) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/hijiangtao/glmaps/pulls) 
 [![license](https://img.shields.io/github/license/hijiangtao/glmaps.svg)](https://github.com/hijiangtao/glmaps/blob/master/LICENSE) 
